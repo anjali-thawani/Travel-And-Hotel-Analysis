@@ -11,3 +11,7 @@ Objective is to analyze this set with over one thousand users and 250 thousand t
 - Category Filters: Slicers to filter by categories such as years.
 - KPIs: Display key metrics such as total number of trip, total revenue of flights, total agencies, total flight type, company type.
 - DAX : Calculated columns and measures.
+
+![Screenshot (302)](https://github.com/user-attachments/assets/8671b9d5-4779-41e1-a622-e52135d12ec6)
+![Screenshot (303)](https://github.com/user-attachments/assets/1deaad4d-de6e-490f-bef2-ba4ec3ee1900)
+![Screenshot (305)](https://github.com/user-attachments/assets/c7fc3144-da77-4e2c-abc8-b03bffd5c6f7)
