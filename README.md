@@ -1,4 +1,4 @@
-# Travel-And-Hotel-Analysis
+![image](https://github.com/user-attachments/assets/8d336d0c-a176-4f51-b951-039e08c7c791)# Travel-And-Hotel-Analysis
 
 ### Objective-
 Argo Solutions, A leading technology company in Latin America, developing solutions to facilitate expense management and corporate travel using technology as an enabler of these processes. ​This is a dataset focusing on flights and hotels.
@@ -53,6 +53,15 @@ Objective is to analyze this set with over one thousand users and 250 thousand t
 
 #### Calculate different number of companies: 
          Companies = DISTINCTCOUNT(users[company])
+
+### Key Insights
+
+- Flying Drop (38758) has a considerably lower number of flights compared to Cloudify (116378) and Rainbow (116752). This discrepancy can be attributed to the fact that Flying Drop exclusively offers first-class flights, which inherently limits its service to a niche market segment.
+- Upon analyzing the relationship between flight distance and pricing, it is evident that there is no consistent pattern of price increase with increasing distance. The data reveals that while some longer flights are indeed more expensive, there are numerous instances where prices do not increase proportionally with distance. In fact, at certain points, the prices actually decrease as the distance increases
+- This analysis indicates that the year 2020 experienced the highest number of flights (112571) compared to other years in the dataset. This peak in flight volume highlights a significant operational activity for that year.
+- the top three flight destinations based on the number of flights Florianopolis (SC): 57,317 flights, Aracaju (SE): 37,224 flights and Campo Grande (MS): 34,748 flights. And The destination which has least number of flights is Rio de Janeiro (RJ): 16815
+- Our analysis over the past five years indicates that Hotel K has consistently hosted the largest number of customers (5094), followed by Hotel CB with 5,029 customers and Hotel BD with 4,829 customers. In contrast, Hotel A has the least number of customers, totaling 3,330. This lower volume may be attributed to Hotel A's higher pricing compared to the other hotels.
+- 
 
 
 ![Screenshot (302)](https://github.com/user-attachments/assets/8671b9d5-4779-41e1-a622-e52135d12ec6)
