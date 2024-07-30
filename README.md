@@ -86,17 +86,28 @@ Objective is to analyze this set with over one thousand users and 250 thousand t
 ### Key Insights
 
 - Flying Drop (38758) has a considerably lower number of flights compared to Cloudify (116378) and Rainbow (116752). This discrepancy can be attributed to the fact that Flying Drop exclusively offers first-class flights, which inherently limits its service to a niche market segment.
-  ![Screenshot (306)](https://github.com/user-attachments/assets/07fd72c6-c7d4-41f1-80d5-b3a7ce49db2b)
-- Upon analyzing the relationship between flight distance and pricing, it is evident that there is no consistent pattern of price increase with increasing distance. The data reveals that while some longer flights are indeed more expensive, there are numerous instances where prices do not increase proportionally with distance. In fact, at certain points, the prices actually decrease as the distance increases
-  ![Screenshot (311) - Copy](https://github.com/user-attachments/assets/728739d1-1664-4173-9474-ea2ab3eb60ec)
+
+![Screenshot (306)](https://github.com/user-attachments/assets/07fd72c6-c7d4-41f1-80d5-b3a7ce49db2b)
+  
+- Upon analyzing the relationship between flight distance and pricing, it is evident that there is no consistent pattern of price increase with increasing distance. The data reveals that while some longer flights are indeed more expensive, there are numerous instances where prices do not increase proportionally with distance. In fact, at certain points, the prices actually decrease as the distance increases.
+  
+![Screenshot (311) - Copy](https://github.com/user-attachments/assets/728739d1-1664-4173-9474-ea2ab3eb60ec)
+
 - This analysis indicates that the year 2020 experienced the highest number of flights (112571) compared to other years in the dataset. This peak in flight volume highlights a significant operational activity for that year.
-  ![Screenshot (310) - Copy](https://github.com/user-attachments/assets/26ccb056-0a5d-4a1b-9609-04c05a343b38)
+  
+![Screenshot (310) - Copy](https://github.com/user-attachments/assets/26ccb056-0a5d-4a1b-9609-04c05a343b38)
+
 - the top three flight destinations based on the number of flights Florianopolis (SC): 57,317 flights, Aracaju (SE): 37,224 flights and Campo Grande (MS): 34,748 flights. And The destination which has least number of flights is Rio de Janeiro (RJ): 16815
-  ![Screenshot (309) - Copy](https://github.com/user-attachments/assets/aaaa3748-9497-4a25-85c0-3b77171b20fe)
+  
+![Screenshot (309) - Copy](https://github.com/user-attachments/assets/aaaa3748-9497-4a25-85c0-3b77171b20fe)
+
 - Our analysis over the past five years indicates that Hotel K has consistently hosted the largest number of customers (5094), followed by Hotel CB with 5,029 customers and Hotel BD with 4,829 customers. In contrast, Hotel A has the least number of customers, totaling 3,330. This lower volume may be attributed to Hotel A's higher pricing compared to the other hotels.
-  ![Screenshot (315) - Copy](https://github.com/user-attachments/assets/573f34e7-ad62-46e9-ac01-5265d283858f)
-  ![Screenshot (316) - Copy](https://github.com/user-attachments/assets/ae750e02-027f-46f4-b759-ddc71bddcf80)
+  
+![Screenshot (315) - Copy](https://github.com/user-attachments/assets/573f34e7-ad62-46e9-ac01-5265d283858f)
+![Screenshot (316) - Copy](https://github.com/user-attachments/assets/ae750e02-027f-46f4-b759-ddc71bddcf80)
+
 - Our analysis indicates that Company 4You is utilized by a significant number of customers, with a total of 453 customers. This highlights Company 4You's strong appeal and customer base.
+- 
 ![Screenshot (317) - Copy](https://github.com/user-attachments/assets/e3bb982a-ca2a-42e4-aef1-c65e8c5bc5a4)
 
 
