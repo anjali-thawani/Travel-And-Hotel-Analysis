@@ -32,22 +32,6 @@ Objective is to analyze this set with over one thousand users and 250 thousand t
 #### Calculate Average price of Flights: 
          average_price = AVERAGE(flights[price])
 
-
- 
-
-
-
-
-
-
-
-
-
-![Screenshot (307) - Copy](https://github.com/user-attachments/assets/eb9d99f6-35a6-4cf0-8884-308fabd52568)
-
-
-
-
 #### Calculate number of flight types:          
          Flight_Type = DISTINCTCOUNT(flights[flightType])
 
@@ -107,11 +91,11 @@ Objective is to analyze this set with over one thousand users and 250 thousand t
 ![Screenshot (316) - Copy](https://github.com/user-attachments/assets/ae750e02-027f-46f4-b759-ddc71bddcf80)
 
 - Our analysis indicates that Company 4You is utilized by a significant number of customers, with a total of 453 customers. This highlights Company 4You's strong appeal and customer base.
-- 
+  
 ![Screenshot (317) - Copy](https://github.com/user-attachments/assets/e3bb982a-ca2a-42e4-aef1-c65e8c5bc5a4)
 
+# Report Snapshot (Power BI DESKTOP)
 
-
-![Screenshot (302)](https://github.com/user-attachments/assets/8671b9d5-4779-41e1-a622-e52135d12ec6)
-![Screenshot (303)](https://github.com/user-attachments/assets/1deaad4d-de6e-490f-bef2-ba4ec3ee1900)
+![Screenshot (309)](https://github.com/user-attachments/assets/12d7bc1a-2dee-49f3-9525-dec7bc90b34e)
+![Screenshot (308)](https://github.com/user-attachments/assets/95874b61-6595-4b76-a871-035b63377d7c)
 ![Screenshot (305)](https://github.com/user-attachments/assets/c7fc3144-da77-4e2c-abc8-b03bffd5c6f7)
