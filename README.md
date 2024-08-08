@@ -11,6 +11,12 @@ Objective is to analyze this set with over one thousand users and 250 thousand t
 - KPIs: Display key metrics such as total number of trip, total revenue of flights, total agencies, total flight type, company type.
 - DAX : Calculated columns and measures.
 
+### Tools Used 
+- Power BI
+- Excel
+
+### Data Source - Kaggle (https://www.kaggle.com/datasets/leomauro/argodatathon2019)
+
 ### Calculate Columns
 
 #### Converting ages into age range: 
